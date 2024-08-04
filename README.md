@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=riz3e)](https://git.io/streak-stats)
 <!--
 **riz3e/riz3e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
