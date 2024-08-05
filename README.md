@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madi</h1>
-<h3 align="center">I'm 17. A backend developer from Kazakhstan.</h3>
+<h3 align="center">17 y.o. backend developer from Kazakhstan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riz3e&label=Profile%20views&color=0e75b6&style=flat" alt="riz3e" /> </p>
 
