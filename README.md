@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riz3e&label=Profile%20views&color=0e75b6&style=flat" alt="riz3e" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riz3e" alt="riz3e" /></a> </p>
-
 - 🔭 I’m currently working on [OG-AI](https://github.com/himoji/og)
 
 - 💬 Ask me about **FASTAPI, Next.js, Prisma, PostgreSQL**
